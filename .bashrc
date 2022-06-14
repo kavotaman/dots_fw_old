@@ -2,6 +2,8 @@
 # ~/.bashrc
 #
 
+[[ $- == *i* ]] && source ~/.local/share/blesh/ble.sh --noattach
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
@@ -48,3 +50,9 @@ if command -v theme.sh > /dev/null; then
 	# Interactively load a dark theme
 	alias thd='theme.sh --dark -i'
 fi
+
+shopt -s autocd
+
+source /usr/share/doc/pkgfile/command-not-found.bash
+
+[[ ${BLE_VERSION-} ]] && ble-attach

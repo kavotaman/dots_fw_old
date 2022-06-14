@@ -37,5 +37,6 @@ blueman-applet &
 sleep 3 && insync start &
 
 # disable DPMS screen blanking
+sleep 10
 xset s off -dpms &
 xset s noblank &
