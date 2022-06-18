@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/usr/bin/git --git-dir=/home/omk/.dots/ --work-tree=/home/omk add ~/.config/alacritty/ ~/Scripts ~/.config/bspwm ~/.config/coc/ ~/.config/dunst/ ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/nvim/plug-config/ ~/.config/nvim/spell/ ~/.config/sxhkd ~/.config/conky ~/.config/ranger/ ~/.config/kitty ~/.config/libinput-gestures.conf ~/.config/picom.conf ~/fortunes ~/.aliases ~/.bashrc ~/.config/ncmpcpp/ /home/omk/.mpd/ /home/omk/.mozilla/firefox/190u2scu.default-release/chrome/userChrome.css ~/.config/jgmenu/ ~/.config/ncmpcpp/ ~/.config/nestopia/ ~/.config/polybar/ ~/.config/zathura/ ~/.mpd/
+/usr/bin/git --git-dir=/home/omk/.dots/ --work-tree=/home/omk add ~/.config/alacritty/ ~/Scripts ~/.config/bspwm ~/.config/coc/ ~/.config/dunst/ ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/nvim/plug-config/ ~/.config/nvim/spell/ ~/.config/sxhkd ~/.config/conky ~/.config/ranger/rifle.conf ~/.config/ranger/scope.sh ~/.config/ranger/commands.py ~/.config/ranger/commands_full.py ~/.config/ranger/rc.conf ~/.config/kitty ~/.config/libinput-gestures.conf ~/.config/picom.conf ~/fortunes ~/.aliases ~/.bashrc ~/.config/ncmpcpp/ /home/omk/.mpd/ /home/omk/.mozilla/firefox/190u2scu.default-release/chrome/userChrome.css ~/.config/jgmenu/ ~/.config/ncmpcpp/ ~/.config/nestopia/ ~/.config/polybar/ ~/.config/zathura/ ~/.mpd/
 
 /usr/bin/git --git-dir=/home/omk/.dots/ --work-tree=/home/omk commit -m "updatessss"
 
