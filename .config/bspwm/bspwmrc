@@ -24,18 +24,19 @@ bspc config normal_border_color         "#073642"
 bspc config active_border_color         "#073642"
 
 # Autostart
+xsetroot -cursor_name left_ptr &
 picom -CGb &
 /usr/bin/dunst &
 $HOME/.config/polybar/bspwm.sh &
 $HOME/.config/conky/launch.sh &
 ~/.config/bspwm/scripts/low_bat_notifier.sh
 nm-applet --indicator &
-nitrogen --random --set-zoom-fill /home/omk/Pictures/WP &
-mpd &
+# nitrogen --random --set-zoom-fill /home/omk/Pictures/WP &
+nitrogen --set-zoom-fill /home/omk/Pictures/at7.png &
 libinput-gestures-setup start &
 blueman-applet &
 sleep 3 && insync start &
-
+mpd &
 # disable DPMS screen blanking
 sleep 10
 xset s off -dpms &

@@ -9,6 +9,8 @@
 
 PS1='[\u@\h \W]\$ '
 
+# set -o vi
+
 # Set Editor
 
 export VISUAL=nvim;
