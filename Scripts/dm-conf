@@ -9,6 +9,8 @@
 
 
 declare -a options=("alacritty"
+"sway"
+"waybar"
 "aliases"
 "bspwm"
 "neovim"
@@ -30,6 +32,12 @@ case "$choice" in
 	alacritty)
 		choice="$HOME/.config/alacritty/alacritty.yml"
 	;;
+    sway)
+        choice="$HOME/.config/sway/config"
+    ;;
+    waybar)
+        choice="$HOME/.config/waybar/config"
+    ;;
     aliases)
         choice="$HOME/.aliases"
     ;;

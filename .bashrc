@@ -58,3 +58,8 @@ shopt -s autocd
 source /usr/share/doc/pkgfile/command-not-found.bash
 
 [[ ${BLE_VERSION-} ]] && ble-attach
+
+export QT_QPA_PLATFORMTHEME=qt5ct
+export QT_QPA_PLATFORM=wayland
+export GDK_BACKEND=wayland
+export MOZ_ENABLE_WAYLAND=1

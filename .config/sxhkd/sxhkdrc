@@ -157,7 +157,7 @@ super + shift + i
 
 # Screenshot
 super + p
-  scrot /home/omk/Pictures/Screenshots/screenshot-$(date +%F_%T).png
+  sleep 1 && scrot -s /home/omk/Pictures/Screenshots/screenshot-$(date +%F_%T).png
 
 # Shortcuts
 super + w 

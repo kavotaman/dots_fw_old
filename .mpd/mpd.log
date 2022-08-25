@@ -3812,3 +3812,1142 @@ Jun 17 22:49 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto
 Jun 17 22:49 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
 Jun 17 22:59 : player: played "Popular Music/METAL/Ayreon/2000 - Universal Migrator II - Flight of the Migrator/05 Into The Black Hole.mp3"
 Jun 17 23:01 : player: played "Popular Music/BRASIL/Mano Brown/2016 - Boogie Naipe/11. La Onda (feat. Lino Krizz and Nelson Conceição).mp3"
+Jun 19 20:59 : config: option 'device' on line 13 was not recognized
+Jun 21 23:53 : config: option 'device' on line 13 was not recognized
+Jun 22 09:37 : player: played "Popular Music/METAL/Ayreon/2004 - Human Equation/02. Day Two_ Isolation.mp3"
+Jun 22 09:38 : config: option 'device' on line 13 was not recognized
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 22 11:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 22 11:48 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 22 11:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jun 22 11:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jun 22 11:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jun 22 11:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jun 22 11:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jun 22 11:53 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/01. Cego Para As Cores.mp3"
+Jun 22 11:58 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/01. Cego Para As Cores.mp3"
+Jun 22 12:02 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/02. Crédito Ou Débito.mp3"
+Jun 22 12:06 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/03. Ninguém Mexe Com O Diabo.mp3"
+Jun 22 11:10 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/04. Não Pare Pra Pensar.mp3"
+Jun 22 11:14 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/05. Eu Era Feliz.mp3"
+Jun 22 11:18 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/06. Um Dia Do Seu Sol.mp3"
+Jun 22 11:21 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/07. You Have To Outgrow Rock N Roll.mp3"
+Jun 22 11:25 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/08. Siga Mesmo No Escuro.mp3"
+Jun 22 11:29 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/09. Pra Qualquer Bicho.mp3"
+Jun 22 11:33 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/10. Mesmo Que Seja Eu.mp3"
+Jun 22 11:36 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/11. Eu Ando Tendo Sorte.mp3"
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/18 - Pout-Pourri - Berimbau, Canto de Ossanha .mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/17 - Apresenta Banda.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/16 - Garota de Ipanema - Sei la.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/15 - Garota de Ipanema.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/14 - Agua de beber.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/13 - A Felicidade.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/12 - Conversa Tom e Vinicius (Bate Papo).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/11 - A gente vai levando.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/10 -  Samba para Vinicius.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/09 - A flor da Pele (O que será).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/08 - Samba do Avião.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/07 - Águas de Março.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/06 - Samba de uma nota só.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/05 - Wave.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/04 - Desafinado.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/03 - Tarde em Itapoã.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/02 - Saudade da Bahia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/01 - Samba de Orly.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/14 Inütil Paisagem (Useless Landscape).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/13 Chovendo Na Roseira.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/12 Soneto de Separacão (Song of Separation).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/11 Fotografia [Photograph].mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/10 Por Toda a Minha Vida.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/09 Brigas, Nunca Mais [Fights Never More].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/09 - Sam.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/08 Retrato Em Branco E Prieto (Picture in Black and White).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/07 O Que Tinha de Ser.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/06 Corcovado.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/05 Triste [Sad].mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/04 Modinha.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/04 - O Beijo e a Reza.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/03 Só Tinha de Ser Com Você [It Had to Be with You].mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/02 Pois É [So It Is].mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Tom Jobim/[1974] Elis & Tom/01 Águas de Março (Waters of March).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/17-milton_banana_trio--carolina-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/16-milton_banana_trio--samba_da_bencao-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/15-milton_banana_trio--vesti_azul-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/14-milton_banana_trio--amazonas-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/06 - É  Proibido Fumar.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/13-milton_banana_trio--roda_viva-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/12-milton_banana_trio--sambou_sambou-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/11-milton_banana_trio--nana-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/10-milton_banana_trio--noa...noa...-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/09-milton_banana_trio--ela_e_carioca-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/08-milton_banana_trio--garota_de-ipanema-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/07-milton_banana_trio--amanha-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/06-milton_banana_trio--sao_salvador-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/02 - Jackie Tequila.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/05-milton_banana_trio--cidade_vazia-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/04-milton_banana_trio--voce-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/03-milton_banana_trio--ve-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/02-milton_banana_trio--estamos_ai-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/01-milton_banana_trio--resolucao-wus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/07 - Na Tonga da Mironga do Kabulete.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/01 - Madalena.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/03 - Amazonas (Keep Walking).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/06 - Jesus Cristo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/11 - Pacato Cidadão.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/11 - Menina.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/09 - Amigo e Pra Essas Coisas.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/10 - Oba La Vem Ela.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/05 - Quero Voltar pra Bahia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/12 - Procurando Tu.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/04 - Junto a Voce.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/08 - Piri Piri.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1971] Milton Banana Trio/02 - Eu Tambem Quero Mocoto.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/10 - Estivador.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/12 - Carta de Poeta.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/11 - Refem da Solidao.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/10 - Samba sem Viola.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/09 - Take it Easy my Brother Charles.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/08 - Lua Aberta.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/07 - Vendedor de Bananas.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/06 - De Onde Vens.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/05 - Um Abraco no Codo.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/04 - Foi um Rio que Passou em Minha Vida.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/05 - A Cerca.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/03 - Se Voce Quiser Mas Sem Bronquear.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1970] Milton Banana Trio/01 - Vou Deitar e Rolar (Quaquaraquaqua).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/12 - Vou Me Pirulitar.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/11 - Pra Dizer Adeus.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/10 - You've Got Your Troubles.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/09 - História Em Quadrinhos.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/08 - Casaco Marrom.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/08 - Chega Disso!!.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/07 - Aquele Abraço.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/06 - Chivas 12.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/05 - Custe O Que Custar.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/04 - Que Maravilha.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/03 - Se Você Pensa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/02 - Bahia de Todos Os Deuses.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1969] Milton Banana Trio/01 - País Tropical.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/03 - Esmola.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/12 - Travessia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/11 - O Caderninho.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/10 - Alegría, Alegría.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/09 - Carolina.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/08 - Samba Da Bênção.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/07 - Procissão.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/01 - Amolação.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/06 - Roda Viva.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/05 - Bim Bom.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/04 - Aos Pés Da Cruz.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/03 - Vesti Azul.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/02 - Está Chegando A Hora.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Milton Banana Trio/[1968] Milton Banana Trio/01 - Todo Dia É Dia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/14 - Queremos Guerra.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1994] Calango/07 - Te Ver.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/13 - Cultura e Civilizacao.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/12 - Com Medo, com Pedro.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/11 - Aquele Abraco.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/10 - Oma lao.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/09 Objeto Semi-Identificado.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/08 Futrível.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/07 2001.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/06 Vitrines.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/05 A Voz Do Vivo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/02 Esmola.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/04 17 Léguas E Meia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/03 Aquele Abraço.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/02 Volks Volkswagen Blue.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1969] Gilberto Gil/01 Cérebro Eletrônico.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 14 - Gilberto Gil - A Luta Contra A Lata Ou A Falência Do Café (com Os Mutantes).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 13 - Gilberto Gil - Questão De Ordem (com The Beat Boys).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 12 - Gilberto Gil - A Coisa Mais Linda Que Existe.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 11 - Gilberto Gil - Barca Grande.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/06 Balada do amor inabalável.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 10 - Gilberto Gil - Domingo No Parque.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 09 - Gilberto Gil - Pé Da Roseira.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 08 - Gilberto Gil - Luzia Luluza.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 07 - Gilberto Gil - Procissão.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 06 - Gilberto Gil - Ele Falava Nisso Todo Dia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 05 - Gilberto Gil - Pega A Voga, Cabeludo.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 04 - Gilberto Gil - Marginália II.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 03 - Gilberto Gil - Domingou.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/15 Ali.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 02 - Gilberto Gil - Coragem Pra Suportar.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 01 - Gilberto Gil - Frevo Rasgado.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/11 apesar de você.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/10 tanto mar.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/09 pequeña serenata diurna.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/08 pivete.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/07 pedaço de mim.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/06 até o fim.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/07 Três lados.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/05 homenagem ao malandro.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/04 o meu amor.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/03 trocando em miúdos.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/02 cálice.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1978] Chico Buarque/01 feijoada completa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/10 - Meu caro amigo.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/09 - Basta um dia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/08 - Passaredo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/16 Garota nacional.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/07 - A noiva da cidade.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/06 - Corrente.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/05 - Vai trabalhar vagabundo.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/04 - Você vai me seguir.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/03 - Olhos nos olhos.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/02 - Mulheres de Atenas.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1976] Meus caros amigos/01 - O que será (À flor da terra).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/10 Acalanto.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/10 Resposta.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/09 Minha História (Gesúbambino).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/08 Valsinha.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/07 Samba de Orly.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/06 Olha Maria.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/05 Cordão.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/04 Construção.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/03 Desalento.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/02 Cotidiano.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Chico Buarque/[1971] Construção/01 Deus Lhe Pague.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/14 14. Você Nao Entende Nada Cotidia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/13 13. Felicidade (Felicidade Foi Em.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/12 12. Nao Enche.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/13 Tanto.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/11 11. Chega de Saudade.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/10 10. London, London.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/08 08. La Barca.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/07 07. Terra.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/06 06. Queixa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/05 05. Com que Roupa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/04 04. Qualquer Coisa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/03 03. Desde que o Samba é Samba.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/02 02. Sampa.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/O Melhor de Caetano Veloso/01 01. Sozinho (A Vivo).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/12 Alfômega.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/11 Acrilírico.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/10 Chuvas De Verão.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/09 Não Identificado.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/08 Cambalache.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/07 Carolina.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/03 Pacato cidadão.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/06 Os Argonautas.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/05 Atrás Do Trio Elétrico.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/04 Lost In The Paradise.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/03 Marinheiro Só.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/02 The Empty Boat.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1969] Caetano Veloso/01 Irene.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/12. Eles.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/11. Ave Maria.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/10. Soy Loco Por Tí, América.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/08 Tão seu.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/09. Clara.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/08. Paisagem Útil.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/07. Superbacana.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/06. Anunciação.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/05. Onde Andarás.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/04. Alegria, Alegria.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/03. No Dia Em Que Eu Vim-me Embora.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/02. Clarice.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Caetano Veloso/[1968] Caetano Veloso/01. Tropicália.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/12 - Hino Do Senhor Do Bonfim.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/12 Estare prendido en tus dedos.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/11 - Bat Macumba.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/10 - Mamãe, Coragem.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/09 - Enquanto Seu Lobo Não Vem.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/08 - Três Caravelas (Las Três Carabelas).mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/07 - Baby.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/06 - Geléia Geral.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/05 - Parque Industrial.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/05 Acima do sol.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/04 - Lindonéia.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/03 - Panis Et Circenses.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/02 - Coracão Materno.mp3
+Jun 24 09:22 : update: removing Popular Music/BRASIL/1968 - Tropicália (Ou Panis Et Circenses)/01 - Miserere Nóbis.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/09 Saideira.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/17 É proibido fumar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/04 Jackie tequila.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/01 É uma partida de futebol.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/14 Canção noturna.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/11 Te ver.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/03 Resposta.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/11 Saideira.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/04 Siderado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/05 Mandrake e os Cubanos.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/02 Do Ben.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/06 Os Homens das Cavernas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/07 Romance Noir.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/08 Don Blás.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/01 Marginal Tietê.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/10 No Meio do Mar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/Skank/[1998] Siderado/09 Calipsoê.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/09 - Enquanto Seu Lobo Não Vem.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/11 - Bat Macumba.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/12 - Hino Do Senhor Do Bonfim.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/02 - Coracão Materno.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/06 - Geléia Geral.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/07 - Baby.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/05 - Parque Industrial.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/03 - Panis Et Circenses.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/10 - Mamãe, Coragem.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/01 - Miserere Nóbis.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/04 - Lindonéia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/08 - Três Caravelas (Las Três Carabelas).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/03. No Dia Em Que Eu Vim-me Embora.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/04. Alegria, Alegria.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/07. Superbacana.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/06. Anunciação.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/12. Eles.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/05. Onde Andarás.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/02. Clarice.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/09. Clara.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/08. Paisagem Útil.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/11. Ave Maria.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/10. Soy Loco Por Tí, América.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/01. Tropicália.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/10 Chuvas De Verão.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/03 Marinheiro Só.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/07 Carolina.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/05 Atrás Do Trio Elétrico.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/09 Não Identificado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/02 The Empty Boat.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/04 Lost In The Paradise.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/01 Irene.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/11 Acrilírico.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/12 Alfômega.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/08 Cambalache.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/06 Os Argonautas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/12 12. Nao Enche.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/01 01. Sozinho (A Vivo).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/06 06. Queixa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/13 13. Felicidade (Felicidade Foi Em.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/05 05. Com que Roupa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/08 08. La Barca.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/03 03. Desde que o Samba é Samba.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/14 14. Você Nao Entende Nada Cotidia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/10 10. London, London.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/11 11. Chega de Saudade.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/07 07. Terra.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/04 04. Qualquer Coisa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/02 02. Sampa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/02 - joao gilberto - o barquinho.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/09 - joao gilberto - coisa mais linda.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/05 - joao gilberto - a primeira vez.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/03 - joao gilberto - bolinha de papel.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/10 - joao gilberto - presente de natal.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/07 - joao gilberto - voce e eu.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/11 - joao gilberto - insensatez.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/12 - joao gilberto - este seu olhar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/08 - joao gilberto - trenzinho (trem de ferro).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/01 - joao gilberto - samba da minha terra.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/06 - joao gilberto - o amor em paz.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1961] João Gilberto/04 - joao gilberto - saudade da bahia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/05 saudade fez um samba.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/06 Maria Ninguém.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/12 É luxo só.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/10 bim bom.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/02 lobo bobo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/09 morena boca de ouro.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/11 Aos pés da cruz.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/08 rosa morena.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/01 chega de saudade.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/03 brigas, nunca mais.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/04 Ho-bá-lá-lá.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/07 desafinado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/02 - Doralice.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/10 - Discussao.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/06 - Um Abraco no Bonfa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/07 - Meditacao.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/05 - Se e Tarde Me Perdoa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/01 - Samba de Uma Nota So.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/08 - O Pato.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/03 - So em Teus Bracos.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/11 - Amor Certinho.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/04 - Trevo de Quatro Folhas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/12 - Outra Vez.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/09 - Corcovado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/03_Que Importa Para Nós Dois a Despedida.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/06_Lágrimas de Homem.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/12_Eu Sei.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/11_Eu Sinto Vontade De Chorar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/05_Cancioneiro.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/09_Tenho Amizade a Você.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/08_Quero Voltar aos Braços Teus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/07_Espelho Do Destino.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/01_Quando A Saudade Apertar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/10_A Voz do Dever.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/04_Adeus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/MP3/02_Atire A Primeira Pedra.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/02_Atire A Primeira Pedra.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/01_Quando A Saudade Apertar.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/12_Eu Sei.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/09_Tenho Amizade a Você.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/08_Quero Voltar aos Braços Teus.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/04_Adeus.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/06_Lágrimas de Homem.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/07_Espelho Do Destino.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/03_Que Importa Para Nós Dois a Despedida.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/05_Cancioneiro.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/11_Eu Sinto Vontade De Chorar.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Orlando Silva/[1968] Quando a Saudade Apertar/FLAC/10_A Voz do Dever.flac
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 14 - Gilberto Gil - A Luta Contra A Lata Ou A Falência Do Café (com Os Mutantes).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 03 - Gilberto Gil - Domingou.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 13 - Gilberto Gil - Questão De Ordem (com The Beat Boys).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 04 - Gilberto Gil - Marginália II.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 05 - Gilberto Gil - Pega A Voga, Cabeludo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 07 - Gilberto Gil - Procissão.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 11 - Gilberto Gil - Barca Grande.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 02 - Gilberto Gil - Coragem Pra Suportar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 12 - Gilberto Gil - A Coisa Mais Linda Que Existe.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 01 - Gilberto Gil - Frevo Rasgado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 10 - Gilberto Gil - Domingo No Parque.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 06 - Gilberto Gil - Ele Falava Nisso Todo Dia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 08 - Gilberto Gil - Luzia Luluza.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 09 - Gilberto Gil - Pé Da Roseira.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/14 - Queremos Guerra.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/11 - Aquele Abraco.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/09 Objeto Semi-Identificado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/02 Volks Volkswagen Blue.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/12 - Com Medo, com Pedro.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/01 Cérebro Eletrônico.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/10 - Oma lao.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/06 Vitrines.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/08 Futrível.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/04 17 Léguas E Meia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/07 2001.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/05 A Voz Do Vivo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/13 - Cultura e Civilizacao.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Gilberto Gil/[1969] Gilberto Gil/03 Aquele Abraço.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/02 - Saudade da Bahia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/04 - Desafinado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/07 - Águas de Março.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/03 - Tarde em Itapoã.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/01 - Samba de Orly.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/10 -  Samba para Vinicius.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/06 - Samba de uma nota só.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/05 - Wave.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/18 - Pout-Pourri - Berimbau, Canto de Ossanha .mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/14 - Agua de beber.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/15 - Garota de Ipanema.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/13 - A Felicidade.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/16 - Garota de Ipanema - Sei la.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/11 - A gente vai levando.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/17 - Apresenta Banda.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/12 - Conversa Tom e Vinicius (Bate Papo).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/08 - Samba do Avião.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1977] Tom, Vinicius, Toquinho, Miúcha/09 - A flor da Pele (O que será).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/14 Inütil Paisagem (Useless Landscape).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/03 Só Tinha de Ser Com Você [It Had to Be with You].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/11 Fotografia [Photograph].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/09 Brigas, Nunca Mais [Fights Never More].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/12 Soneto de Separacão (Song of Separation).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/01 Águas de Março (Waters of March).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/07 O Que Tinha de Ser.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/06 Corcovado.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/10 Por Toda a Minha Vida.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/02 Pois É [So It Is].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/04 Modinha.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/05 Triste [Sad].mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/08 Retrato Em Branco E Prieto (Picture in Black and White).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1974] Elis & Tom/13 Chovendo Na Roseira.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/06 - Corrente.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/02 - Mulheres de Atenas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/09 - Basta um dia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/08 - Passaredo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/03 - Olhos nos olhos.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/05 - Vai trabalhar vagabundo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/07 - A noiva da cidade.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/01 - O que será (À flor da terra).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/10 - Meu caro amigo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/04 - Você vai me seguir.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/08 pivete.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/07 pedaço de mim.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/03 trocando em miúdos.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/02 cálice.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/06 até o fim.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/10 tanto mar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/11 apesar de você.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/04 o meu amor.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/01 feijoada completa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/09 pequeña serenata diurna.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/05 homenagem ao malandro.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/02 Cotidiano.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/01 Deus Lhe Pague.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/06 Olha Maria.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/10 Acalanto.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/05 Cordão.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/03 Desalento.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/09 Minha História (Gesúbambino).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/04 Construção.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/08 Valsinha.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/07 Samba de Orly.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/07 - Na Tonga da Mironga do Kabulete.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/05 - Quero Voltar pra Bahia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/01 - Madalena.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/06 - Jesus Cristo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/10 - Oba La Vem Ela.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/12 - Procurando Tu.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/03 - Amazonas (Keep Walking).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/09 - Amigo e Pra Essas Coisas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/04 - Junto a Voce.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/02 - Eu Tambem Quero Mocoto.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/08 - Piri Piri.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1971] Milton Banana Trio/11 - Menina.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/10 - Alegría, Alegría.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/06 - Roda Viva.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/07 - Procissão.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/02 - Está Chegando A Hora.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/05 - Bim Bom.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/09 - Carolina.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/08 - Samba Da Bênção.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/03 - Vesti Azul.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/11 - O Caderninho.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/04 - Aos Pés Da Cruz.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/01 - Todo Dia É Dia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1968] Milton Banana Trio/12 - Travessia.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/12 - Carta de Poeta.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/04 - Foi um Rio que Passou em Minha Vida.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/03 - Se Voce Quiser Mas Sem Bronquear.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/08 - Lua Aberta.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/06 - De Onde Vens.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/10 - Samba sem Viola.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/05 - Um Abraco no Codo.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/07 - Vendedor de Bananas.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/09 - Take it Easy my Brother Charles.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/01 - Vou Deitar e Rolar (Quaquaraquaqua).mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1970] Milton Banana Trio/11 - Refem da Solidao.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/04-milton_banana_trio--voce-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/03-milton_banana_trio--ve-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/12-milton_banana_trio--sambou_sambou-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/09-milton_banana_trio--ela_e_carioca-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/07-milton_banana_trio--amanha-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/11-milton_banana_trio--nana-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/01-milton_banana_trio--resolucao-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/17-milton_banana_trio--carolina-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/13-milton_banana_trio--roda_viva-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/14-milton_banana_trio--amazonas-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/16-milton_banana_trio--samba_da_bencao-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/10-milton_banana_trio--noa...noa...-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/05-milton_banana_trio--cidade_vazia-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/08-milton_banana_trio--garota_de-ipanema-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/06-milton_banana_trio--sao_salvador-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/15-milton_banana_trio--vesti_azul-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/Colecao Folha 50 Anos de Bossa Nova/02-milton_banana_trio--estamos_ai-wus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/05 - Custe O Que Custar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/08 - Casaco Marrom.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/02 - Bahia de Todos Os Deuses.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/04 - Que Maravilha.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/07 - Aquele Abraço.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/06 - Chivas 12.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/10 - You've Got Your Troubles.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/11 - Pra Dizer Adeus.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/12 - Vou Me Pirulitar.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/03 - Se Você Pensa.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/09 - História Em Quadrinhos.mp3
+Jun 24 09:22 : update: added Popular Music/BRASIL/00 MPB/Milton Banana Trio/[1969] Milton Banana Trio/01 - País Tropical.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 24 09:22 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 24 09:22 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 24 09:22 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jun 24 09:22 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jun 24 09:22 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jun 24 09:22 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jun 24 09:22 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jun 24 09:22 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/02 - Doralice.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/10 - Discussao.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/06 - Um Abraco no Bonfa.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/07 - Meditacao.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/05 - Se e Tarde Me Perdoa.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/01 - Samba de Uma Nota So.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/08 - O Pato.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/03 - So em Teus Bracos.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/11 - Amor Certinho.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/04 - Trevo de Quatro Folhas.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/12 - Outra Vez.mp3
+Jun 24 09:23 : update: updating Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/09 - Corcovado.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 24 09:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 24 09:23 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 24 09:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jun 24 09:23 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jun 24 09:23 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jun 24 09:23 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jun 24 09:23 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jun 24 09:23 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jun 24 09:26 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/01 chega de saudade.mp3"
+Jun 24 09:27 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/02 lobo bobo.mp3"
+Jun 24 09:27 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/03 brigas, nunca mais.mp3"
+Jun 25 12:13 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/01 chega de saudade.mp3"
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 07 Steve Jobs For Jerseyband.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 01 Sheffield's Law.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 03 Feminem.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 09 Shave Your Shelf.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 04 Sangwich.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 02 Titan.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 06 Lord Magnificent.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 08 French Parade.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 05 Mischief.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 01 Robak.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 07 Chamile (Git On The Pig).mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 03 Tube.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 05 F.E.T. Dogtron.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 06 Logging.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 02 Pants.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2003] Little Bag Of Feet For Shoes/Jerseyband - Little Bag Of Feet For Shoes - 04 JB Fletcher.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2002] JAKE/Jerseyband - JAKE - 02 Jake In Time Of Gorteks.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2002] JAKE/Jerseyband - JAKE - 01 intro.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2002] JAKE/Jerseyband - JAKE - 03 Sensory French Frie.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2002] JAKE/Jerseyband - JAKE - 04 Equestra.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2002] JAKE/Jerseyband - JAKE - 05 555-Jake.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 10 Carol Of The Bells.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 12 God Rest Ye Merry Gentlemen - Part Three.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 03 God Rest Ye Merry Gentlemen Part One.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 11 O! Tannenbaum.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 06 Deck The Halls.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 05 Arabian Dance.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 09 God Rest Ye Merry Gentlemen Part Two.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 04 Greensleeves.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 01 We Three Kings Of Orient Are.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 13 Good King Wenceslas.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 07 It's Winter.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 08 Hark! The Herald Angels Sing.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 14 The Twelve Days Of Christmas.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 02 Jolly Old St. Nicholas.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2012] Forever Hammer/Jerseyband - Forever Hammer - 02 The Battle- Pirate vs. Cyclops.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2012] Forever Hammer/Jerseyband - Forever Hammer - 01 TOSM.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2012] Forever Hammer/Jerseyband - Forever Hammer - 03 Together Forever.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2012] Forever Hammer/Jerseyband - Forever Hammer - 04 Not Hammer.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 10 Rats In Boxes (Pigeons In Boxes).mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 09 Private Parts.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 03 Pipemaster (Child Of Horse And Man).mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 06 The Queen's Laser.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 02 Strong Like Bull.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 05 Prelude To Beast - Wedding.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 01 The Glad Hand.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 08 Shit Sandwich.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 07 (March To Dawn).mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2009] Beast - Wedding/Jerseyband - Beast - Wedding - 04 The Travelogues Of Mr. Milk (Journal Entry 1).mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 07 Factory Outlet.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 09 My Soul Will Stink Forever.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 02 Poopsoup.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 04 Horse Tooth Extract.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 03 Save Yourself From Hell.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 05 Always....mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 01 You and Your Issues.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 06 Dining Center.mp3
+Jun 26 19:48 : update: added Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 08 Tyme Phokk.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jun 26 19:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jun 26 19:48 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jun 26 19:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jun 26 19:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jun 26 19:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jun 26 19:48 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jun 26 19:48 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jun 26 19:48 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jun 27 20:08 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 01 You and Your Issues.mp3"
+Jun 27 20:14 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 02 Poopsoup.mp3"
+Jun 27 20:17 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 03 Save Yourself From Hell.mp3"
+Jun 27 20:24 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 04 Horse Tooth Extract.mp3"
+Jun 27 20:26 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 05 Always....mp3"
+Jun 27 20:32 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 06 Dining Center.mp3"
+Jun 27 20:33 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 07 Factory Outlet.mp3"
+Jun 27 20:40 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 08 Tyme Phokk.mp3"
+Jun 27 21:05 : player: played "Popular Music/METAL/Jerseyband/[2000] Tragedy in the Mangky/Jerseyband - Tragedi In The Mangky - 09 My Soul Will Stink Forever.mp3"
+Jun 27 21:08 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 01 We Three Kings Of Orient Are.mp3"
+Jun 27 21:12 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 02 Jolly Old St. Nicholas.mp3"
+Jun 27 21:13 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 03 God Rest Ye Merry Gentlemen Part One.mp3"
+Jun 27 21:15 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 04 Greensleeves.mp3"
+Jun 27 21:20 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 05 Arabian Dance.mp3"
+Jun 27 21:24 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 06 Deck The Halls.mp3"
+Jun 27 21:29 : player: played "Popular Music/METAL/Jerseyband/[2001] Christmasband/Jerseyband - Christmasband - 07 It's Winter.mp3"
+Jun 28 21:19 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 01 Sheffield's Law.mp3"
+Jun 28 21:20 : config: option 'device' on line 13 was not recognized
+Jul 03 20:47 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 01 Sheffield's Law.mp3"
+Jul 03 20:48 : config: option 'device' on line 13 was not recognized
+Jul 09 21:59 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 01 Sheffield's Law.mp3"
+Jul 09 22:04 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 02 Titan.mp3"
+Jul 09 22:06 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 03 Feminem.mp3"
+Jul 09 22:13 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 04 Sangwich.mp3"
+Jul 09 22:18 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 05 Mischief.mp3"
+Jul 09 22:21 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 06 Lord Magnificent.mp3"
+Jul 09 22:26 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 07 Steve Jobs For Jerseyband.mp3"
+Jul 09 22:31 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 08 French Parade.mp3"
+Jul 09 22:52 : player: played "Popular Music/METAL/Jerseyband/[2007] Lung Punch Fantasy/Jerseyband - Lung Punch Fantasy - 09 Shave Your Shelf.mp3"
+Jul 09 22:53 : config: option 'device' on line 13 was not recognized
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 11 09:04 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 11 09:04 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 11 09:04 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jul 11 09:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jul 11 09:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jul 11 09:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jul 11 09:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jul 11 09:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jul 11 09:08 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/01 Deus Lhe Pague.mp3"
+Jul 11 09:11 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/02 Cotidiano.mp3"
+Jul 11 09:13 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/03 Desalento.mp3"
+Jul 11 09:20 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/04 Construção.mp3"
+Jul 11 09:30 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/05 Cordão.mp3"
+Jul 11 09:37 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/06 Olha Maria.mp3"
+Jul 11 09:49 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/07 Samba de Orly.mp3"
+Jul 11 09:51 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/08 Valsinha.mp3"
+Jul 11 09:54 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/09 Minha História (Gesúbambino).mp3"
+Jul 11 09:56 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/10 Acalanto.mp3"
+Jul 11 09:59 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/01 - O que será (À flor da terra).mp3"
+Jul 11 10:03 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/02 - Mulheres de Atenas.mp3"
+Jul 11 10:09 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/03 - Olhos nos olhos.mp3"
+Jul 11 10:12 : config: option 'device' on line 13 was not recognized
+Jul 11 10:18 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/03 - Olhos nos olhos.mp3"
+Jul 11 10:21 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/04 - Você vai me seguir.mp3"
+Jul 11 10:24 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/05 - Vai trabalhar vagabundo.mp3"
+Jul 11 10:35 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/08 - Passaredo.mp3"
+Jul 11 10:38 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/09 - Basta um dia.mp3"
+Jul 11 10:42 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1976] Meus caros amigos/10 - Meu caro amigo.mp3"
+Jul 11 10:45 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/01 feijoada completa.mp3"
+Jul 11 10:49 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/02 cálice.mp3"
+Jul 11 10:52 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/03 trocando em miúdos.mp3"
+Jul 11 10:56 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/04 o meu amor.mp3"
+Jul 11 10:59 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/05 homenagem ao malandro.mp3"
+Jul 11 11:01 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/06 até o fim.mp3"
+Jul 11 11:05 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/07 pedaço de mim.mp3"
+Jul 11 11:07 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/08 pivete.mp3"
+Jul 11 11:09 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/09 pequeña serenata diurna.mp3"
+Jul 11 11:11 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/10 tanto mar.mp3"
+Jul 13 16:35 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1978] Chico Buarque/11 apesar de você.mp3"
+Jul 13 16:35 : config: option 'device' on line 13 was not recognized
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 15 21:58 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 15 21:58 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 15 21:58 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jul 15 21:58 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jul 15 21:58 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jul 15 21:58 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jul 15 21:58 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jul 15 21:58 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/05 Inútil Paisagem.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/10 Samba de Uma Nota Só.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/07 Canção em Modo Menor.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/12 A Felicidade.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/09 Águas de Março.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/06 Derradeira Primavera.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/04 Falando de Amor.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/02 Eu Sei Que Vou Te Amar.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/11 Desafinado.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/08 Estrada do Sol.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/03 Canção do Amor Demais.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/01 Imagina.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/07 Modinha (Seresta nº 5).mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/04 Samba do Avião.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/06 Retrato em Branco e Preto.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/11 Por Causa de Você.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/08 Modinha.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/01 Wave (Vou Te Contar).mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/05 Garota de Ipanema.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/03 Sabiá.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/10 Eu Não Existo Sem Você.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/02 Chega de Saudade.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/09 Canta, Canta Mais.mp3
+Jul 15 22:00 : update: added Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/12 Sucedeu Assim.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 15 22:00 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 15 22:00 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 15 22:00 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jul 15 22:00 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jul 15 22:00 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jul 15 22:00 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jul 15 22:00 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jul 15 22:00 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jul 15 22:03 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/01 Wave (Vou Te Contar).mp3"
+Jul 15 22:07 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/02 Chega de Saudade.mp3"
+Jul 15 22:10 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/03 Sabiá.mp3"
+Jul 15 22:13 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/04 Samba do Avião.mp3"
+Jul 15 22:17 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/05 Garota de Ipanema.mp3"
+Jul 15 22:19 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/06 Retrato em Branco e Preto.mp3"
+Jul 15 22:22 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/07 Modinha (Seresta nº 5).mp3"
+Jul 15 22:25 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/08 Modinha.mp3"
+Jul 15 22:29 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/09 Canta, Canta Mais.mp3"
+Jul 15 22:31 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/10 Eu Não Existo Sem Você.mp3"
+Jul 16 21:34 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/11 Por Causa de Você.mp3"
+Jul 16 21:37 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/12 Sucedeu Assim.mp3"
+Jul 16 21:39 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/01 Imagina.mp3"
+Jul 16 21:41 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/02 Eu Sei Que Vou Te Amar.mp3"
+Jul 16 21:42 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/03 Canção do Amor Demais.mp3"
+Jul 16 21:46 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/04 Falando de Amor.mp3"
+Jul 16 21:49 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/05 Inútil Paisagem.mp3"
+Jul 16 21:51 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/06 Derradeira Primavera.mp3"
+Jul 16 21:54 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/07 Canção em Modo Menor.mp3"
+Jul 16 21:57 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/08 Estrada do Sol.mp3"
+Jul 16 22:00 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/09 Águas de Março.mp3"
+Jul 16 22:03 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/10 Samba de Uma Nota Só.mp3"
+Jul 16 22:06 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/11 Desafinado.mp3"
+Jul 16 22:10 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 2/12 A Felicidade.mp3"
+Jul 17 21:06 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/01 Marginal Tietê.mp3"
+Jul 17 21:10 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/02 Do Ben.mp3"
+Jul 17 21:15 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/03 Resposta.mp3"
+Jul 17 21:19 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/04 Siderado.mp3"
+Jul 17 21:23 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/05 Mandrake e os Cubanos.mp3"
+Jul 17 21:27 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/06 Os Homens das Cavernas.mp3"
+Jul 17 21:31 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/07 Romance Noir.mp3"
+Jul 17 21:36 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/08 Don Blás.mp3"
+Jul 17 21:40 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/09 Calipsoê.mp3"
+Jul 18 18:08 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/10 No Meio do Mar.mp3"
+Jul 18 18:08 : config: option 'device' on line 13 was not recognized
+Jul 22 23:14 : player: played "Popular Music/BRASIL/Skank/[1998] Siderado/10 No Meio do Mar.mp3"
+Jul 23 08:48 : config: option 'device' on line 13 was not recognized
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 26 21:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 26 21:26 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 26 21:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jul 26 21:26 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jul 26 21:26 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jul 26 21:26 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jul 26 21:26 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jul 26 21:26 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jul 26 21:27 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/01 - Prelude.mp3"
+Jul 26 21:34 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/02 - Reach Out for the Light.mp3"
+Jul 26 21:40 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/03 - Serpents in Paradise.mp3"
+Jul 26 21:42 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/04 - Malleus Maleficarum.mp3"
+Jul 26 21:46 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/05 - Breaking Away.mp3"
+Jul 26 21:53 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/06 - Farewell.mp3"
+Jul 26 21:58 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/07 - The Glory of Rome.mp3"
+Jul 26 21:59 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/08 - In Nomine Patris.mp3"
+Jul 26 22:05 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/09 - Avantasia.mp3"
+Jul 26 22:07 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/10 - A New Dimension.mp3"
+Jul 26 22:09 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/11 - Inside.mp3"
+Jul 26 22:15 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/12 - Sign of the Cross.mp3"
+Jul 26 22:27 : player: played "Popular Music/METAL/Avantasia/2001 - The Metal Opera/13 - The Tower.mp3"
+Jul 26 22:33 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/01 - The Seven Angels.mp3"
+Jul 26 22:41 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/02 - No Return.mp3"
+Jul 26 22:50 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/03 - The Looking Glass.mp3"
+Jul 26 22:54 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/04 - In Quest For.mp3"
+Jul 26 22:59 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/05 - The Final Sacrifice.mp3"
+Jul 28 16:58 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/06 - Neverland.mp3"
+Jul 28 17:04 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/07 - Anywhere.mp3"
+Jul 28 17:10 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/08 - Chalice of Agony.mp3"
+Jul 28 17:17 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/09 - Memory.mp3"
+Jul 28 17:20 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 01 - Gilberto Gil - Frevo Rasgado.mp3"
+Jul 28 17:23 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 02 - Gilberto Gil - Coragem Pra Suportar.mp3"
+Jul 28 17:25 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 03 - Gilberto Gil - Domingou.mp3"
+Jul 28 17:28 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 04 - Gilberto Gil - Marginália II.mp3"
+Jul 28 17:33 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 05 - Gilberto Gil - Pega A Voga, Cabeludo.mp3"
+Jul 28 17:35 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 06 - Gilberto Gil - Ele Falava Nisso Todo Dia.mp3"
+Jul 28 17:38 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 07 - Gilberto Gil - Procissão.mp3"
+Jul 28 17:42 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 08 - Gilberto Gil - Luzia Luluza.mp3"
+Jul 28 17:45 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 09 - Gilberto Gil - Pé Da Roseira.mp3"
+Jul 28 17:49 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 10 - Gilberto Gil - Domingo No Parque.mp3"
+Jul 28 17:52 : player: played "Popular Music/BRASIL/00 MPB/Gilberto Gil/[1968] Gilberto Gil/Gilberto Gil - 11 - Gilberto Gil - Barca Grande.mp3"
+Jul 28 19:09 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/01 wildest dreams.mp3"
+Jul 28 19:12 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/02 wrathchild.mp3"
+Jul 28 19:17 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/03 can i play with madness.mp3"
+Jul 28 19:24 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/04 the trooper.mp3"
+Jul 28 19:33 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/05 dance of death.mp3"
+Jul 28 19:37 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/06 rainmaker.mp3"
+Jul 28 19:43 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/07 brave new world.mp3"
+Jul 28 19:53 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/08 paschendale.mp3"
+Jul 28 19:58 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/09 lord of the flies.mp3"
+Jul 28 20:06 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/10 no more lies.mp3"
+Jul 28 20:14 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/11 hallowed by thy name.mp3"
+Jul 28 20:21 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/12 fear of the dark.mp3"
+Jul 28 20:27 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/13 iron maiden.mp3"
+Jul 28 20:32 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/14 untitled.mp3"
+Jul 28 20:39 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/15 journeyman.mp3"
+Jul 28 20:44 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/16 number of the beast.mp3"
+Jul 28 20:49 : player: played "Popular Music/METAL/Iron Maiden/Bootlegs/2004-01-17 - Pacaembu Sao Paulo Brazil/17 run to the hills.mp3"
+Jul 28 20:51 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/01 chega de saudade.mp3"
+Jul 28 20:52 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/02 lobo bobo.mp3"
+Jul 28 20:55 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/03 brigas, nunca mais.mp3"
+Jul 28 20:57 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/04 Ho-bá-lá-lá.mp3"
+Jul 28 20:59 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/05 saudade fez um samba.mp3"
+Jul 28 21:01 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/06 Maria Ninguém.mp3"
+Jul 28 21:03 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/07 desafinado.mp3"
+Jul 28 21:05 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/08 rosa morena.mp3"
+Jul 28 21:07 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/09 morena boca de ouro.mp3"
+Jul 28 21:08 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/10 bim bom.mp3"
+Jul 28 21:10 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/11 Aos pés da cruz.mp3"
+Jul 28 21:12 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1959] Chega de Saudade/12 É luxo só.mp3"
+Jul 28 21:14 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/01 - Samba de Uma Nota So.mp3"
+Jul 28 21:15 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/02 - Doralice.mp3"
+Jul 28 21:17 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/03 - So em Teus Bracos.mp3"
+Jul 28 21:18 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/04 - Trevo de Quatro Folhas.mp3"
+Jul 28 21:20 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/05 - Se e Tarde Me Perdoa.mp3"
+Jul 28 21:22 : player: played "Popular Music/BRASIL/00 MPB/João Gilberto/[1960] O Amor, O Sorriso e a Flor/06 - Um Abraco no Bonfa.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 29 20:05 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 29 20:05 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Jul 29 20:05 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Jul 29 20:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Jul 29 20:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Jul 29 20:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Jul 29 20:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Jul 29 20:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Jul 29 20:06 : player: played "Popular Music/METAL/Avantasia/2002 - The Metal Opera, Pt. II/08 - Chalice of Agony.mp3"
+Jul 29 20:12 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 10 - O Mundo Ainda Nao Esta Pronto.mp3"
+Jul 29 20:17 : player: played "Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Depois.mp3"
+Jul 29 21:17 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/05 - menti para você, mas foi sem querer.mp3"
+Jul 29 21:20 : player: played "Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 03 - Vida Imbecil.mp3"
+Jul 29 21:23 : player: played "Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/06 - A Hora da Estrela.mp3"
+Jul 29 21:26 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 02 - Sitio do Pica-pau Amarelo.mp3"
+Jul 29 23:36 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/03 - day after day.mp3"
+Jul 29 23:38 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/13 - Dentro - Fora.mp3"
+Aug 02 06:48 : player: played "Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Um Ponto Oito.mp3"
+Aug 02 06:48 : config: option 'device' on line 13 was not recognized
+Aug 02 22:18 : player: played "Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Um Ponto Oito.mp3"
+Aug 02 22:21 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/01. Anormal.mp3"
+Aug 02 22:26 : player: played "Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 06 - Onofle.mp3"
+Aug 02 22:29 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/11 - E O Vento Levou....mp3"
+Aug 02 22:33 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/08 - 2 Malucos.mp3"
+Aug 02 22:36 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/13 - Ando Meio Desligado.mp3"
+Aug 02 22:40 : player: played "Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 13 - Spoc.mp3"
+Aug 02 22:44 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/04. Não Pare Pra Pensar.mp3"
+Aug 02 22:49 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/02 - Me Explica.mp3"
+Aug 02 22:53 : player: played "Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 07 - Sobre O Tempo.mp3"
+Aug 02 22:54 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 02 22:54 : config: option 'device' on line 13 was not recognized
+Aug 10 15:47 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 10 15:47 : config: option 'device' on line 13 was not recognized
+Aug 11 19:56 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 11 19:56 : config: option 'device' on line 13 was not recognized
+Aug 11 19:56 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 11 19:57 : config: option 'device' on line 13 was not recognized
+Aug 16 06:59 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 16 06:59 : config: option 'device' on line 13 was not recognized
+Aug 19 19:04 : config: option 'device' on line 13 was not recognized
+Aug 21 21:12 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 23 11:08 : config: option 'device' on line 13 was not recognized
+Aug 23 14:32 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 23 14:32 : config: option 'device' on line 13 was not recognized
+Aug 23 14:45 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 23 14:46 : config: option 'device' on line 13 was not recognized
+Aug 24 23:40 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 25 00:38 : config: option 'device' on line 13 was not recognized
+Aug 25 11:44 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 25 11:44 : config: option 'device' on line 13 was not recognized
