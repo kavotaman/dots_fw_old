@@ -178,8 +178,11 @@ super + c
 #super + m
 #  xrandr --output HDMI1 --same-as LVDS1 
 
-#super + shift + m
-#  xrandr --output HDMI1 --off
+super + shift + m
+  xrandr --output DP3 --off
+
+super + m
+  xrandr --output DP3 --mode 1920x1080 --rate 60.00 --left-of eDP1
 
 super + b
   chromium

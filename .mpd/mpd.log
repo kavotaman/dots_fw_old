@@ -4951,3 +4951,600 @@ Aug 24 23:40 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Par
 Aug 25 00:38 : config: option 'device' on line 13 was not recognized
 Aug 25 11:44 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
 Aug 25 11:44 : config: option 'device' on line 13 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 30 16:59 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Aug 30 17:00 : config: option 'device' on line 13 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Sep 03 11:16 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3"
+Sep 03 11:16 : config: option 'device' on line 13 was not recognized
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/12 - Hino Do Senhor Do Bonfim.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/11 - Bat Macumba.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/10 - Mamãe, Coragem.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/09 - Enquanto Seu Lobo Não Vem.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/08 - Três Caravelas (Las Três Carabelas).mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/07 - Baby.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/06 - Geléia Geral.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/05 - Parque Industrial.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/04 - Lindonéia.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/03 - Panis Et Circenses.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/02 - Coracão Materno.mp3
+Sep 03 19:55 : update: removing Popular Music/BRASIL/00 MPB/1968 - Tropicália (Ou Panis Et Circenses)/01 - Miserere Nóbis.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/09 - Enquanto Seu Lobo Não Vem.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/11 - Bat Macumba.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/12 - Hino Do Senhor Do Bonfim.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/02 - Coracão Materno.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/06 - Geléia Geral.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/07 - Baby.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/05 - Parque Industrial.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/03 - Panis Et Circenses.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/10 - Mamãe, Coragem.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/01 - Miserere Nóbis.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/04 - Lindonéia.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[1968] Tropicália (Ou Panis Et Circenses)/08 - Três Caravelas (Las Três Carabelas).mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/13 - Paulista.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/06 - Loro.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/10 - The easy winners.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/05 - Celestial.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/03 - Guerreiro.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/02 - Aguenta seu Fulgêncio.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/07 - Corrupião.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/14 - Um a zero.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/09 - Labirinto.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/01 - Santa Morena.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/12 - Batuque.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/04 - Danza de la vida breve.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/08 - As vitrines.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/11 - Valsa venezuelana nº3.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/11 - As Vitrines.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/12 - Choro Da Bisa.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/06 - Olha Maria.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/05 - Feia (Pertinho Do Céu).mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/01 - Santa Morena.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/08 - Dança Do Corrupião.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/04 - Choro Pro Trio.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/14 - Bachianas Brasileiras Nº 2 (O Trenzinho Do Caipira).mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/09 - Fuga Y Misterio - & Yamandú Costa.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/03 - Assanhado.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/13 - Loro.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/10 - Danza De La Vida Breve - & Yamandú Costa.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/02 - Quebrando O Galho.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2015] Ao Vivo Em Copacabana/07 - Passarim.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/07 - ternura.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/04 - assanhado.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/03 - fuga y misterio nr.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/09 - 1 x 0.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/05 - the early winners.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/08 - taiane.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/01 - as vitrines nr.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/06 - loro.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[2002] Ao Vivo CCBB - part. Gabriel Grossi/02 - feia nr.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/18. Teresa Cristina & Grupo Semente - Foi Uma Pedra Que Rolou.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/3. Teresa Cristina & Grupo Semente - Um Calo de Estimação.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/15. Yamandú Costa - Carinhoso.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/14. Zé da Velha, Silvério Pontes, Trio Madeira Brasil, Henrique Cazes, Jorginho do Pandeiro, Celsinho Silva, Marcos Suzano, Beto Cazes e Netinho - Bole Bole.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/10. Trio Madeira Brasil - Agüenta Seu Fulgêncio.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/5. Trio Madeira Brasil e Marcos Suzano - Assanhado.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/9. Paulo Moura, Zé da Velha, Silvério Pontes, Carlinhos 7 Cordas, Márcio Almeida, Laudir de Oliveira e Paulinho Black - Chorinho de Gafieira.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/2. Trio Madeira Brasil - Santa Morena.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/4. Yamandú Costa - Brejeiro.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/1. Zé da Velha, Silvério Pontes, Yamandu Costa, Trio Madeira Brasil, Henrique Cazes, Beto Cazes e Netinho - Machucando.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/6. Paulo Moura, Zé da Velha, Silvério Pontes, Carlinhos 7 Cordas, Paulinho Black, Laudir de Oliveira, Márcio Almeida e Daniela Spielman - Chorinho Pra Você.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/8. Zezé Gonzaga, Trio Madeira Brasil, Rui Alvim, Henrique Cazes, Beto Cazes e Netinho - Falando de Amor.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/11. Jonathan Nascimento, Fred Dantas, Edson 7 Cordas, Eduardo Reis, Zero, Paulino Dias e Thiago Lima - Degenerado.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/12. Maurício Carrilho, Luciana Rabello, Cristóvão Bastos, Marcelo Bernardes, Pedro Paes e Rui Alvim - Papo de Anjo.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/16. Zezé Gonzaga, Teresa Cristina, Trio Madeira Brasil, Yamandu Costa, Zé da Velha, Silvério Pontes, Rui Alvim, Joel Nascimento, Carlinhos Leite, Henrique Cazes, Beto Cazes, Netinho, Jorginho do Pandeiro, Celsinho Silva e Marcos Suzano - Barracão.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/19. Trio Madeira Brasil, Joel Nascimento, Hamilton de Holanda, Zé da Velha, Silvério Pontes, Carlinhos Leite, Beto Cazes, Henrique Cazes, Rogerinho Caetano, Thiago Souza, Comunguelo, Maionese, Rogério Souza e Humberto Araújo - Cochichando.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/13. Marcello Gonçalves & Yamandú Costa - Formosa.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/17. Trio Madeira Brasil, Rui Alvim, Beto Cazes e Henrique Cazes - Choro da Bisa.mp3
+Sep 03 19:55 : update: added Popular Music/BRASIL/00 MPB/[2006] Brasileirinho Choro In Rio/7. Zé da Velha, Silvério Pontes, Éverson Moraes, Aquiles Moraes, Trio Madeira Brasil, Henrique Cazes, Beto Cazes e Netinho - O Bom Filho A Casa Torna.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 03 19:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 03 19:55 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 03 19:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 03 19:55 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 03 19:55 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 03 19:55 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 03 19:55 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 03 19:55 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Sep 03 19:59 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/01 01. Sozinho (A Vivo).mp3"
+Sep 03 20:01 : player: played "Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 03 - Nunca dia.mp3"
+Sep 03 20:02 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 07 - Hino Nacional do Pato Fu.mp3"
+Sep 03 20:06 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/08. Siga Mesmo No Escuro.mp3"
+Sep 03 20:09 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/05 - menti para você, mas foi sem querer.mp3"
+Sep 03 20:16 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/04 - Capetão.mp3"
+Sep 03 20:19 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/08. Paisagem Útil.mp3"
+Sep 03 20:22 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/03 - Sobre o Tempo.mp3"
+Sep 03 20:39 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/08 - Capetao 66-6 FM.mp3"
+Sep 03 20:42 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/04. Amendoim.mp3"
+Sep 03 20:45 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/10 Chuvas De Verão.mp3"
+Sep 03 20:48 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/02 02. Sampa.mp3"
+Sep 03 20:53 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/10 10. London, London.mp3"
+Sep 03 20:56 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/12 - Lá Se Vai.mp3"
+Sep 03 20:59 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/03 - Pinga.mp3"
+Sep 03 21:03 : player: played "Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/01 - 30.000 Pés.mp3"
+Sep 03 21:05 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/05. Onde Andarás.mp3"
+Sep 03 21:15 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/07 - Deus.mp3"
+Sep 03 21:19 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/09. Pra Qualquer Bicho.mp3"
+Sep 03 21:22 : player: played "Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/11 - Nada Original.mp3"
+Sep 03 21:25 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 04 - Meu Coracao E U a Privada.mp3"
+Sep 03 21:32 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/04 04. Qualquer Coisa.mp3"
+Sep 03 21:54 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/11 Acrilírico.mp3"
+Sep 03 21:59 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/02. Clarice.mp3"
+Sep 03 22:02 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/08 - 2 Malucos.mp3"
+Sep 03 22:05 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/14 - Antes que Seja Tarde.mp3"
+Sep 03 22:09 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/11 - Vivo num Morro.mp3"
+Sep 03 22:13 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/02 - Água.mp3"
+Sep 03 22:17 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/05 05. Com que Roupa.mp3"
+Sep 03 22:21 : player: played "Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/04 - Cities In Dust.mp3"
+Sep 03 22:25 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/12 12. Nao Enche.mp3"
+Sep 03 22:29 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/04 - Made in Japan.mp3"
+Sep 03 22:33 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/08 08. La Barca.mp3"
+Sep 04 15:55 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/pato fu - 1993 - Rotomusic de Liquidificapum - 12 - O Amor Em Carne e Osso.mp3"
+Sep 04 16:00 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/09 - Depois.mp3"
+Sep 04 16:03 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/10. Mesmo Que Seja Eu.mp3"
+Sep 04 16:06 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/08. Estudar Pra Que.mp3"
+Sep 04 16:11 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/02 - Me Explica.mp3"
+Sep 04 16:15 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/03. Ninguém Mexe Com O Diabo.mp3"
+Sep 04 16:19 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/01 - Eu.mp3"
+Sep 04 16:25 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/19 - Rotomusic de Liquidificapum.mp3"
+Sep 04 16:30 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 08 - G.r.e.s..mp3"
+Sep 04 16:34 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/09. Vida Diet.mp3"
+Sep 04 16:37 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/10 - Porque Te Vas.mp3"
+Sep 04 16:39 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3"
+Sep 04 16:40 : config: option 'device' on line 13 was not recognized
+Sep 04 16:40 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Sep 04 16:41 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3"
+Sep 04 16:44 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/09 - Tolices.mp3"
+Sep 04 16:44 : config: option 'device' on line 13 was not recognized
+Sep 04 16:44 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Sep 04 16:46 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/09 - Tolices.mp3"
+Sep 04 16:49 : player: played "Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/13 - Ando Meio Desligado.mp3"
+Sep 04 16:52 : player: played "Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/03 - Espero.mp3"
+Sep 04 16:55 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/15 - Imperfeito.mp3"
+Sep 04 16:55 : config: option 'device' on line 13 was not recognized
+Sep 04 16:55 : output: Failed to play on "pulse audio" (pulse): failed to connect the stream: Input/Output error
+Sep 04 16:56 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/15 - Imperfeito.mp3"
+Sep 04 16:59 : player: played "Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 04 - Meu Coracao E U a Privada.mp3"
+Sep 04 17:02 : player: played "Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/04. Amendoim.mp3"
+Sep 04 17:09 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/14 14. Você Nao Entende Nada Cotidia.mp3"
+Sep 04 17:43 : player: played "Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/10. Mesmo Que Seja Eu.mp3"
+Sep 04 17:46 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/14 - Antes que Seja Tarde.mp3"
+Sep 04 17:49 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/07 - Nao Mais.mp3"
+Sep 04 17:53 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/04 - Made in Japan.mp3"
+Sep 04 17:57 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/03 Marinheiro Só.mp3"
+Sep 04 18:00 : player: played "Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/11 - 1 De Vocês.mp3"
+Sep 04 18:20 : player: played "Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 03 - Nunca dia.mp3"
+Sep 05 19:35 : player: played "Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/12 - Nada pra Mim.mp3"
+Sep 05 19:42 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/01 - Olho azul.mp3"
+Sep 07 09:17 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/04 - A Pedra Tem Vida.mp3"
+Sep 07 09:17 : config: option 'device' on line 13 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Sep 07 09:34 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/04 - A Pedra Tem Vida.mp3"
+Sep 07 09:34 : config: option 'device' on line 13 was not recognized
+Sep 07 15:01 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/04 - A Pedra Tem Vida.mp3"
+Sep 07 15:06 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/02 - Babaloo.mp3"
+Sep 07 15:11 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/01 - Origem.mp3"
+Sep 07 15:17 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/13 - Blue Rose - Senha do Motim.mp3"
+Sep 07 20:14 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/11 - Duviăo.mp3"
+Sep 07 20:17 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/08 - Logun Edé.mp3"
+Sep 07 20:21 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/05 - Uma a Uma.mp3"
+Sep 07 20:26 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/12 - Elevador.mp3"
+Sep 07 20:29 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/03 - Nis eh Sampli.mp3"
+Sep 07 20:36 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/04 - O Dah O.mp3"
+Sep 07 20:41 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/04 - Menor e melhor.mp3"
+Sep 07 20:45 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/10 - Ceilao.mp3"
+Sep 07 20:49 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/08 - Estrago o ninho.mp3"
+Sep 07 20:52 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/11 - Churrasquinho Grego.mp3"
+Sep 07 20:55 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/10 - Abuxiscuruma.mp3"
+Sep 07 20:57 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/13 - Amor Caquinho.mp3"
+Sep 07 21:00 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/03 - Lexotan.mp3"
+Sep 07 21:04 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/03 - Pangea.mp3"
+Sep 07 21:07 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/07 - Tempo.mp3"
+Sep 07 21:18 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/07 - Lagrimar.mp3"
+Sep 07 21:23 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/12 - Mafaro.mp3"
+Sep 07 21:54 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Sep 07 21:55 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/16 - O mundo (Lenine, Paulinho Moska, Chico César e Zeca Baleiro).mp3"
+Sep 07 21:56 : config: option 'device' on line 13 was not recognized
+Sep 07 23:48 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/16 - O mundo (Lenine, Paulinho Moska, Chico César e Zeca Baleiro).mp3"
+Sep 07 23:51 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/11 - Churrasquinho Grego.mp3"
+Sep 07 23:57 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/04 - O Dah O.mp3"
+Sep 08 00:01 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/03 - Lexotan.mp3"
+Sep 08 00:06 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/04 - Menor e melhor.mp3"
+Sep 08 00:11 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/10 - Palmeira do deserto.mp3"
+Sep 08 00:14 : player: played "Popular Music/BRASIL/André Abujamra/[2004] Infinito de Pé/05 - Essa músca não existe.mp3"
+Sep 08 00:19 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/12 - Mafaro.mp3"
+Sep 08 00:24 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/07 - Tem Luz na Cauda da Flecha.mp3"
+Sep 08 00:28 : player: played "Popular Music/BRASIL/André Abujamra/[2007] Retransformafrikando/06 - Tattoo.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Sep 15 21:24 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/08 - Logun Edé.mp3"
+Sep 15 21:25 : config: option 'device' on line 13 was not recognized
+Sep 16 11:32 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/08 - Logun Edé.mp3"
+Sep 16 20:48 : config: option 'device' on line 13 was not recognized
+Sep 16 20:49 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/08 - Logun Edé.mp3"
+Sep 16 21:32 : config: option 'device' on line 13 was not recognized
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 18 19:04 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 18 19:04 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 18 19:04 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 18 19:04 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 18 19:04 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 18 19:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 18 19:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 18 19:04 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Sep 18 19:04 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/08 - Logun Edé.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 18 19:05 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 18 19:05 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 18 19:05 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 18 19:05 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 18 19:05 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 18 19:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 18 19:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 18 19:05 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Sep 18 19:07 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/06. Anunciação.mp3"
+Sep 18 19:11 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/01. Tropicália.mp3"
+Sep 18 19:13 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/11 11. Chega de Saudade.mp3"
+Sep 18 19:16 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/04. Alegria, Alegria.mp3"
+Sep 18 19:19 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/06 Os Argonautas.mp3"
+Sep 18 19:21 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/08 Cambalache.mp3"
+Sep 18 19:23 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/09. Clara.mp3"
+Sep 18 19:29 : player: played "Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/02. Clarice.mp3"
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 25 19:41 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 25 19:41 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 25 19:41 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 25 19:41 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 25 19:41 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 25 19:41 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 25 19:41 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 25 19:41 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 25 19:44 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/01-Prologue.mp3"
+Sep 25 19:51 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/02-The Awareness.mp3"
+Sep 25 19:56 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/03-Eyes Of Time.mp3"
+Sep 25 20:07 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/04-The Banishment.mp3"
+Sep 25 20:10 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/05-Ye Courtyard Minstrel Boy.mp3"
+Sep 25 20:14 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/06-Sail Away To Avalon.mp3"
+Sep 25 20:17 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/07-Nature's Dance.mp3"
+Sep 25 20:20 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/08-Computer_Reign (Game Over).mp3"
+Sep 25 20:27 : player: played "Popular Music/METAL/Ayreon/1995 - The Final Experiment/09-Waracle.mp3"
+Sep 28 17:07 : exception: Failed to open audio output
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Sep 28 17:18 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/01 - Origem.mp3"
+Sep 28 17:24 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/02 - Imaginaçăo.mp3"
+Sep 28 17:27 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/03 - Lexotan.mp3"
+Sep 28 17:29 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/04 - A Pedra Tem Vida.mp3"
+Sep 28 17:44 : config: option 'device' on line 13 was not recognized
+Sep 28 17:49 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/01 - Origem.mp3"
+Sep 28 17:55 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/02 - Imaginaçăo.mp3"
+Sep 28 17:58 : player: played "Popular Music/BRASIL/André Abujamra/[2010] Mafaro/03 - Lexotan.mp3"
+Sep 28 18:01 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/01 Wave (Vou Te Contar).mp3"
+Sep 28 18:05 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/02 Chega de Saudade.mp3"
+Sep 28 18:08 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/03 Sabiá.mp3"
+Sep 28 18:12 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/04 Samba do Avião.mp3"
+Sep 28 18:16 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/05 Garota de Ipanema.mp3"
+Sep 28 18:18 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/06 Retrato em Branco e Preto.mp3"
+Sep 28 18:21 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/07 Modinha (Seresta nº 5).mp3"
+Sep 28 18:23 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/08 Modinha.mp3"
+Sep 28 18:27 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/09 Canta, Canta Mais.mp3"
+Sep 28 18:30 : player: played "Popular Music/BRASIL/00 MPB/Tom Jobim/[1987] Inédito/CD 1/10 Eu Não Existo Sem Você.mp3"
+Sep 28 18:35 : player: played "Proprias/EP Cavacama/Viu, Correu, Tossiu.mp3"
+Sep 29 08:44 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 02 - Phase I Singularity - II. The Theory Of Everything Part 1.mp3"
+Sep 29 08:45 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 03 - Phase I Singularity - III. Patterns.mp3"
+Sep 29 08:47 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 04 - Phase I Singularity - IV. The Prodigy's World.mp3"
+Sep 29 08:49 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 05 - Phase I Singularity - V. The Teacher's Discovery.mp3"
+Sep 29 08:52 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 06 - Phase I Singularity - VI. Love And Envy.mp3"
+Sep 29 08:55 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 07 - Phase I Singularity - VII. Progressive Waves.mp3"
+Sep 29 08:58 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 08 - Phase I Singularity - VIII. The Gift.mp3"
+Sep 29 09:00 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 09 - Phase I Singularity - IX. The Eleventh Dimension.mp3"
+Sep 29 09:01 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 10 - Phase I Singularity - X. Inertia.mp3"
+Sep 29 09:02 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 11 - Phase I Singularity - XI. The Theory Of Everything Part 2.mp3"
+Sep 29 09:06 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 12 - Phase II Symmetry - XII. The Consultation.mp3"
+Sep 29 09:09 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 13 - Phase II Symmetry - XIII. Diagnosis.mp3"
+Sep 29 09:09 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 14 - Phase II Symmetry - XIV. The Argument 1.mp3"
+Sep 29 09:12 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 15 - Phase II Symmetry - XV. The Rival's Dilemma.mp3"
+Sep 29 09:13 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 16 - Phase II Symmetry - XVI. Surface Tension.mp3"
+Sep 29 09:14 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 17 - Phase II Symmetry - XVII. A Reason To Live.mp3"
+Sep 29 09:17 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 18 - Phase II Symmetry - XVIII. Potential.mp3"
+Sep 29 09:19 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 19 - Phase II Symmetry - XIX. Quantum Chaos.mp3"
+Sep 29 09:20 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 20 - Phase II Symmetry - XX. Dark Medicine.mp3"
+Sep 29 09:23 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 21 - Phase II Symmetry - XXI. Alive!.mp3"
+Sep 29 09:24 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 1/Ayreon - 2013 - The Theory Of Everything - CD1 - 22 - Phase II Symmetry - XXII. The Prediction.mp3"
+Sep 29 09:25 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 2/Ayreon - 2013 - The Theory Of Everything - CD2 - 01 - Phase III Entanglement - I. Fluctuations.mp3"
+Sep 29 09:28 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 2/Ayreon - 2013 - The Theory Of Everything - CD2 - 02 - Phase III Entanglement - II. Transformations.mp3"
+Sep 29 09:32 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 2/Ayreon - 2013 - The Theory Of Everything - CD2 - 03 - Phase III Entanglement - III. Collision.mp3"
+Sep 29 09:35 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 2/Ayreon - 2013 - The Theory Of Everything - CD2 - 04 - Phase III Entanglement - IV. Side Effects.mp3"
+Sep 29 09:36 : player: played "Popular Music/METAL/Ayreon/2013 - The Theory of Everything/CD 2/Ayreon - 2013 - The Theory Of Everything - CD2 - 05 - Phase III Entanglement - V. Frequency Modulation.mp3"
+Sep 29 09:40 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/01 - Deus Le Volt!.mp3"
+Sep 29 09:45 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/02 - Spread Your Fire.mp3"
+Sep 29 11:08 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/03 - Angels And Demons.mp3"
+Sep 29 11:13 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/04 - Waiting Silence.mp3"
+Sep 29 11:17 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/05 - Wishing Well.mp3"
+Sep 29 11:22 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/06 - The Temple Of Hate.mp3"
+Sep 29 11:30 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/07 - The Shadow Hunter.mp3"
+Sep 29 11:35 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/08 - No Pain For The Dead.mp3"
+Sep 29 11:42 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/09 - Winds Of Destination.mp3"
+Sep 29 11:48 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/10 - Sprouts Of Time.mp3"
+Sep 29 11:55 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/11 - Morning Star.mp3"
+Sep 29 12:00 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/12 - Late Redemption.mp3"
+Sep 29 12:05 : player: played "Popular Music/METAL/Angra/[2004] Temple Of Shadows/13 - Gate XIII.mp3"
+Sep 29 12:10 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/01 Deus Lhe Pague.mp3"
+Sep 29 12:13 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/02 Cotidiano.mp3"
+Sep 29 12:19 : player: played "Popular Music/BRASIL/00 MPB/Chico Buarque/[1971] Construção/04 Construção.mp3"
+Sep 29 16:44 : player: played "Popular Music/BRASIL/00 MPB/Trio Madeira Brasil/[1998] Trio Madeira Brasil/08 - As vitrines.mp3"
+Sep 29 16:45 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Timeout
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 29 16:45 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 29 16:45 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 29 16:45 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 29 16:45 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 29 16:45 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 29 16:45 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 29 16:45 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 29 16:45 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 29 16:45 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 85669.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Sep 29 16:45 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 29 16:45 : ffmpeg/mp3: Format mp3 detected only with low score of 24, misdetection possible!
+Sep 29 16:45 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1151.
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0010
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0009
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0008
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0007
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0006
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0005
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0004
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0003
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0002
+Sep 29 16:45 : update: removing Popular Music/METAL/Angra/[1993] Angels Cry (Japanese Release)/Angra - Angels Cry.cue/track0001
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0017
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0016
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0015
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0014
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0013
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0012
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0011
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0010
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0009
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0008
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0007
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0006
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0005
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0004
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0003
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0002
+Sep 29 16:45 : update: removing Popular Music/BRASIL/Skank/[2001] MTV ao Vivo/MTV ao Vivo em Ouro Preto.CUE/track0001
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0003
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0002
+Sep 29 16:45 : update: removing Noise/Incapacitants/2012 - Eat! Meat!! Manifesto!!!/eat! meat!! manifesto!!!.cue/track0001
+Oct 01 13:53 : player: played "Popular Music/METAL/Edguy/1999 - Theater of salvation/01 - The Healing Vision.mp3"
+Oct 01 13:59 : player: played "Popular Music/METAL/Edguy/1999 - Theater of salvation/02 - Babylon.mp3"
+Oct 01 14:04 : player: played "Popular Music/METAL/Edguy/1999 - Theater of salvation/03 - The Headless Game.mp3"

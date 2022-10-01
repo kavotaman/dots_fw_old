@@ -1,10 +1,10 @@
-sw_volume: 94
+sw_volume: 98
 audio_device_state:1:pulse audio
-audio_device_state:1:my_fifo
-state: pause
-current: 105
-time: 53.413000
-random: 1
+audio_device_state:0:my_fifo
+state: play
+current: 41
+time: 120.001000
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -12,136 +12,89 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 01 - Rotomusic de Liquidificapum.mp3
-1:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 02 - Sitio do Pica-pau Amarelo.mp3
-2:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 03 - O Processo Da Criacao Vai de 10 ate 100 Mil.mp3
-3:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 04 - Meu Coracao E U a Privada.mp3
-4:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 05 - Minhas Ferias.mp3
-5:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/pato fu - 1993 - Rotomusic de Liquidificapum - 06 - Meu Pai, Meu Irmão.mp3
-6:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 07 - Hino Nacional do Pato Fu.mp3
-7:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 08 - G.r.e.s..mp3
-8:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 09 - Gimme 30.mp3
-9:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/Pato Fu - 1993 - Rotomusic de Liquidificapum - 10 - O Mundo Ainda Nao Esta Pronto.mp3
-10:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/pato fu - 1993 - Rotomusic de Liquidificapum - 11 - Eu Sou o Umbigo do Mundo.mp3
-11:Popular Music/BRASIL/Pato Fu/1993 - Rotomusic de Liquidificapum/pato fu - 1993 - Rotomusic de Liquidificapum - 12 - O Amor Em Carne e Osso.mp3
-12:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 01 - And Now.mp3
-13:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 02 - Mamãe Ama É O Meu Revolver.mp3
-14:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 03 - Vida Imbecil.mp3
-15:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 04 - Gol De Quem.mp3
-16:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 05 - Sertões.mp3
-17:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 06 - Onofle.mp3
-18:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 07 - Sobre O Tempo.mp3
-19:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 08 - A Volta do Boêmio.mp3
-20:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 09 - Qualquer Bobagem.mp3
-21:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 10 - Ring My Bell.mp3
-22:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 11 - Ok! All Right!.mp3
-23:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 12 - Vida De Operário.mp3
-24:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 13 - Spoc.mp3
-25:Popular Music/BRASIL/Pato Fu/1995 - Gol De Quem/Pato Fu - 1995 - Gol De Quem - 14 - Ob-la-di-ob-la-da.mp3
-26:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/01 - Nós Mes.mp3
-27:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/02 - Água.mp3
-28:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/03 - Pinga.mp3
-29:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/04 - Capetão.mp3
-30:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/05 - O Peso Das Coisas.mp3
-31:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/06 - Tchau Tô Indo Já Fui.mp3
-32:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/07 - Céreblo.mp3
-33:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/08 - Nuvens.mp3
-34:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/09 - Little Mother Of Sky.mp3
-35:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/10 - Porque Te Vas.mp3
-36:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/11 - 1 De Vocês.mp3
-37:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/12 - Lá Se Vai.mp3
-38:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/13 - Dentro - Fora.mp3
-39:Popular Music/BRASIL/Pato Fu/1996 - Tem Mas Acabou/14 - Feliz Ano Novo.mp3
-40:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 01 - A necrofilia da arte.mp3
-41:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 02 - Antes que seja tarde.mp3
-42:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 03 - Nunca dia.mp3
-43:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 04 - Eu sei.mp3
-44:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 05 - Licitação.mp3
-45:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/Pato Fu - 1998 - Televisao de cachorro - 06 - Vivo num morro.mp3
-46:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 07 - Um dia, um ladrão.mp3
-47:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 08 - Canção pra você viver mais.mp3
-48:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 09 - Tempestade.mp3
-49:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 10 - O mundo não mudou.mp3
-50:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 11 - Televisão de cachorro.mp3
-51:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 12 - Spaceballs, the ballad.mp3
-52:Popular Music/BRASIL/Pato Fu/1998 - Televisao de cachorro/pato fu - 1998 - Televisao de cachorro - 13 - Boa noite.mp3
-53:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Made In Japan.mp3
-54:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Isopor.mp3
-55:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Depois.mp3
-56:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Um Ponto Oito.mp3
-57:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Imperfeito.mp3
-58:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Morto.mp3
-59:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - O Filho Predileto Do Rajneesh.mp3
-60:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Perdendo Dentes.mp3
-61:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Saudade.mp3
-62:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - O Prato Do Dia.mp3
-63:Popular Music/BRASIL/Pato Fu/1999 - Isopor/Pato Fu - Quase.mp3
-64:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/01 - eu.mp3
-65:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/02 - ninguém.mp3
-66:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/03 - day after day.mp3
-67:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/04 - tribunal de causas realmente pequenas.mp3
-68:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/05 - menti para você, mas foi sem querer.mp3
-69:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/06 - Ruído Rosa.mp3
-70:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/07 - Deus.mp3
-71:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/08 - 2 Malucos.mp3
-72:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/09 - Tolices.mp3
-73:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/10 - Que Fragilidade.mp3
-74:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/11 - E O Vento Levou....mp3
-75:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/12 - Sorria, Você Está Sendo Filmado.mp3
-76:Popular Music/BRASIL/Pato Fu/2001 - Ruído rosa/13 - Ando Meio Desligado.mp3
-77:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/01 - Eu.mp3
-78:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/02 - Me Explica.mp3
-79:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/03 - Sobre o Tempo.mp3
-80:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/04 - Made in Japan.mp3
-81:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/05 - Por Perto.mp3
-82:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/06 - Porque Te Vas.mp3
-83:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/07 - Nao Mais.mp3
-84:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/08 - Capetao 66-6 FM.mp3
-85:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/09 - Depois.mp3
-86:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/10 - Cancao pra Voce Viver Mais.mp3
-87:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/11 - Vivo num Morro.mp3
-88:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/12 - Nada pra Mim.mp3
-89:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/13 - Um Dia, um Ladrao.mp3
-90:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/14 - Antes que Seja Tarde.mp3
-91:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/15 - Imperfeito.mp3
-92:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/16 - Perdendo Dentes.mp3
-93:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/17 - Menti pra Voce Mas Foi sem Querer.mp3
-94:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/18 - Quase.mp3
-95:Popular Music/BRASIL/Pato Fu/2002 - Mtv Ao Vivo/19 - Rotomusic de Liquidificapum.mp3
-96:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/01. Anormal.mp3
-97:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/02. Uh Uh Uh, La La La, Ié Ié!.mp3
-98:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/03. Sorte E Azar.mp3
-99:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/04. Amendoim.mp3
-100:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/05. Simplicidade.mp3
-101:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/06. Agridoce.mp3
-102:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/07. No Aeroporto.mp3
-103:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/08. Estudar Pra Que.mp3
-104:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/09. Vida Diet.mp3
-105:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/10. O Que É Isso.mp3
-106:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/11. !.mp3
-107:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/12. Tudo.mp3
-108:Popular Music/BRASIL/Pato Fu/2005 - Toda Cura Para Todo Mal/13. Boa Noite Brasil.mp3
-109:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/01 - 30.000 Pés.mp3
-110:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/02 - Mamã Papá.mp3
-111:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/03 - Espero.mp3
-112:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/04 - Cities In Dust.mp3
-113:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/05 - Tudo Vai Ficar Bem.mp3
-114:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/06 - A Hora da Estrela.mp3
-115:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/07 - Woo!.mp3
-116:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/08 - A Verdade Sobre o Tempo.mp3
-117:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/09 - Quem Não Sou.mp3
-118:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/10 - Vagalume.mp3
-119:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/11 - Nada Original.mp3
-120:Popular Music/BRASIL/Pato Fu/2007 - Daqui Pro Futuro/12 - 1000 Guilhotinas.mp3
-121:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/01. Cego Para As Cores.mp3
-122:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/02. Crédito Ou Débito.mp3
-123:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/03. Ninguém Mexe Com O Diabo.mp3
-124:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/04. Não Pare Pra Pensar.mp3
-125:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/05. Eu Era Feliz.mp3
-126:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/06. Um Dia Do Seu Sol.mp3
-127:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/07. You Have To Outgrow Rock N Roll.mp3
-128:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/08. Siga Mesmo No Escuro.mp3
-129:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/09. Pra Qualquer Bicho.mp3
-130:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/10. Mesmo Que Seja Eu.mp3
-131:Popular Music/BRASIL/Pato Fu/2014 - Não Pare Pra Pensar/11. Eu Ando Tendo Sorte.mp3
+0:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/01 01. Sozinho (A Vivo).mp3
+1:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/02 02. Sampa.mp3
+2:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/03 03. Desde que o Samba é Samba.mp3
+3:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/04 04. Qualquer Coisa.mp3
+4:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/05 05. Com que Roupa.mp3
+5:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/06 06. Queixa.mp3
+6:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/07 07. Terra.mp3
+7:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/08 08. La Barca.mp3
+8:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/09 09. Outras Palavras.mp3
+9:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/10 10. London, London.mp3
+10:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/11 11. Chega de Saudade.mp3
+11:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/12 12. Nao Enche.mp3
+12:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/13 13. Felicidade (Felicidade Foi Em.mp3
+13:Popular Music/BRASIL/00 MPB/Caetano Veloso/O Melhor de Caetano Veloso/14 14. Você Nao Entende Nada Cotidia.mp3
+14:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/01. Tropicália.mp3
+15:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/02. Clarice.mp3
+16:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/03. No Dia Em Que Eu Vim-me Embora.mp3
+17:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/04. Alegria, Alegria.mp3
+18:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/05. Onde Andarás.mp3
+19:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/06. Anunciação.mp3
+20:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/07. Superbacana.mp3
+21:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/08. Paisagem Útil.mp3
+22:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/09. Clara.mp3
+23:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/10. Soy Loco Por Tí, América.mp3
+24:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/11. Ave Maria.mp3
+25:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1968] Caetano Veloso/12. Eles.mp3
+26:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/01 Irene.mp3
+27:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/02 The Empty Boat.mp3
+28:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/03 Marinheiro Só.mp3
+29:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/04 Lost In The Paradise.mp3
+30:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/05 Atrás Do Trio Elétrico.mp3
+31:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/06 Os Argonautas.mp3
+32:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/07 Carolina.mp3
+33:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/08 Cambalache.mp3
+34:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/09 Não Identificado.mp3
+35:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/10 Chuvas De Verão.mp3
+36:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/11 Acrilírico.mp3
+37:Popular Music/BRASIL/00 MPB/Caetano Veloso/[1969] Caetano Veloso/12 Alfômega.mp3
+38:Popular Music/METAL/Edguy/1999 - Theater of salvation/01 - The Healing Vision.mp3
+39:Popular Music/METAL/Edguy/1999 - Theater of salvation/02 - Babylon.mp3
+40:Popular Music/METAL/Edguy/1999 - Theater of salvation/03 - The Headless Game.mp3
+41:Popular Music/METAL/Edguy/1999 - Theater of salvation/04 - Land Of The Miracle.mp3
+42:Popular Music/METAL/Edguy/1999 - Theater of salvation/05 - Wake Up The King.mp3
+43:Popular Music/METAL/Edguy/1999 - Theater of salvation/06 - Falling Down.mp3
+44:Popular Music/METAL/Edguy/1999 - Theater of salvation/07 - Arrows Fly.mp3
+45:Popular Music/METAL/Edguy/1999 - Theater of salvation/08 - Holy Shadows.mp3
+46:Popular Music/METAL/Edguy/1999 - Theater of salvation/09 - Another Time.mp3
+47:Popular Music/METAL/Edguy/1999 - Theater of salvation/10 - The Unbeliever.mp3
+48:Popular Music/METAL/Edguy/1999 - Theater of salvation/11 - Theater Of Salvation (Bonus - Hidden Track).mp3
+49:Popular Music/METAL/Edguy/1999 - Theater of salvation/12 - For A Trace Of Life ( Bonus - Previously Unreleased).mp3
+50:Popular Music/METAL/Edguy/1999 - Theater of salvation/13 - Walk On Fighting ( Bonus - Live in Milan).mp3
+51:Popular Music/METAL/Edguy/2000 - The Savage Poetry/01 - Hallowed.mp3
+52:Popular Music/METAL/Edguy/2000 - The Savage Poetry/02 - Misguiding Your Life.mp3
+53:Popular Music/METAL/Edguy/2000 - The Savage Poetry/03 - Key to My Fate.mp3
+54:Popular Music/METAL/Edguy/2000 - The Savage Poetry/04 - Sands of Time.mp3
+55:Popular Music/METAL/Edguy/2000 - The Savage Poetry/05 - Sacred Hell.mp3
+56:Popular Music/METAL/Edguy/2000 - The Savage Poetry/06 - Eyes of the Tyrant.mp3
+57:Popular Music/METAL/Edguy/2000 - The Savage Poetry/07 - Frozen Candle.mp3
+58:Popular Music/METAL/Edguy/2000 - The Savage Poetry/08 - Roses to No One.mp3
+59:Popular Music/METAL/Edguy/2000 - The Savage Poetry/09 - Power and Majesty.mp3
+60:Popular Music/METAL/Edguy/2001 - Mandrake/01 - Tears Of A Mandrake.mp3
+61:Popular Music/METAL/Edguy/2001 - Mandrake/02 - Golden Dawn.mp3
+62:Popular Music/METAL/Edguy/2001 - Mandrake/03 - Jerusalem.mp3
+63:Popular Music/METAL/Edguy/2001 - Mandrake/04 - All The Clowns.mp3
+64:Popular Music/METAL/Edguy/2001 - Mandrake/05 - Nailed To The Wheel.mp3
+65:Popular Music/METAL/Edguy/2001 - Mandrake/06 - The Pharaoh.mp3
+66:Popular Music/METAL/Edguy/2001 - Mandrake/07 - Wash Away The Poison.mp3
+67:Popular Music/METAL/Edguy/2001 - Mandrake/08 - Fallen Angels.mp3
+68:Popular Music/METAL/Edguy/2001 - Mandrake/09 - Painting On The Wall.mp3
+69:Popular Music/METAL/Edguy/2001 - Mandrake/10 - Save Us Now.mp3
+70:Popular Music/METAL/Edguy/2001 - Mandrake/11 - The Devil & The Savant.mp3
+71:Popular Music/METAL/Edguy/2004 - Hellfire club/01 - Mysteria.mp3
+72:Popular Music/METAL/Edguy/2004 - Hellfire club/02 - The Piper Never Dies.mp3
+73:Popular Music/METAL/Edguy/2004 - Hellfire club/03 - We Don't Need a Hero.mp3
+74:Popular Music/METAL/Edguy/2004 - Hellfire club/04 - Down To The Devil.mp3
+75:Popular Music/METAL/Edguy/2004 - Hellfire club/05 - King Of Fools.mp3
+76:Popular Music/METAL/Edguy/2004 - Hellfire club/06 - Forever.mp3
+77:Popular Music/METAL/Edguy/2004 - Hellfire club/07 - Under The Moon.mp3
+78:Popular Music/METAL/Edguy/2004 - Hellfire club/08 - Lavatory Love Machine.mp3
+79:Popular Music/METAL/Edguy/2004 - Hellfire club/09 - Rise Of The Morning Glory.mp3
+80:Popular Music/METAL/Edguy/2004 - Hellfire club/10 - Lucifer In Love.mp3
+81:Popular Music/METAL/Edguy/2004 - Hellfire club/11 - Navigator.mp3
+82:Popular Music/METAL/Edguy/2004 - Hellfire club/12 - The Spirit Will Remain.mp3
+83:Popular Music/METAL/Edguy/2004 - Hellfire club/13 - Children Of Steel.mp3
+84:Popular Music/METAL/Edguy/2004 - Hellfire club/14 - Mysteria (Ft. Mille Petrozza).mp3
 playlist_end
